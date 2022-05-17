@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: DriverAprovacaoPagamento
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.032 s <<< FAILURE! - in DriverAprovacaoPagamento
+CT001  Time elapsed: 0.032 s  <<< ERROR!
+java.lang.NumberFormatException: 
+For input string: "
+Gerente imediato não pôde aprovar o pagamento solicitado
+Gerente Geral não pôde aprovar o pagamento solicitado
+Diretor financeiro não pôde aprovar o pagamento solicitado
+Diretor Geral autorizando pagamento no valor de R$ 15000.0"
+	at DriverAprovacaoPagamento.CT001(DriverAprovacaoPagamento.java:51)
+
