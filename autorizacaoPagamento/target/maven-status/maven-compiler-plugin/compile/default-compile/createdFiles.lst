@@ -1,0 +1,8 @@
+com\ufes\autorizacaopagamento\business\GerenteImediato.class
+com\ufes\autorizacaopagamento\business\SuperiorHierarquico.class
+com\ufes\autorizacaopagamento\business\GerenteGeral.class
+com\ufes\autorizacaopagamento\business\DiretorFinanceiro.class
+com\ufes\autorizacaopagamento\business\excecoes\TratadoresVazioException.class
+com\ufes\autorizacaopagamento\business\DiretorGeral.class
+com\ufes\autorizacaopagamento\business\excecoes\SuperioresIndisponiveisException.class
+com\ufes\autorizacaopagamento\business\ProcessaPagamentoService.class
